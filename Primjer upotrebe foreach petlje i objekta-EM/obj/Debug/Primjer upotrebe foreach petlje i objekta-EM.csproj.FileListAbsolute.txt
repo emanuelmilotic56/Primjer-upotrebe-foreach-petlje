@@ -1,0 +1,6 @@
+C:\Users\Milotić\source\repos\Primjer upotrebe foreach petlje i objekta-EM\Primjer upotrebe foreach petlje i objekta-EM\bin\Debug\Primjer upotrebe foreach petlje i objekta-EM.exe.config
+C:\Users\Milotić\source\repos\Primjer upotrebe foreach petlje i objekta-EM\Primjer upotrebe foreach petlje i objekta-EM\bin\Debug\Primjer upotrebe foreach petlje i objekta-EM.exe
+C:\Users\Milotić\source\repos\Primjer upotrebe foreach petlje i objekta-EM\Primjer upotrebe foreach petlje i objekta-EM\bin\Debug\Primjer upotrebe foreach petlje i objekta-EM.pdb
+C:\Users\Milotić\source\repos\Primjer upotrebe foreach petlje i objekta-EM\Primjer upotrebe foreach petlje i objekta-EM\obj\Debug\Primjer upotrebe foreach petlje i objekta-EM.csproj.CoreCompileInputs.cache
+C:\Users\Milotić\source\repos\Primjer upotrebe foreach petlje i objekta-EM\Primjer upotrebe foreach petlje i objekta-EM\obj\Debug\Primjer upotrebe foreach petlje i objekta-EM.exe
+C:\Users\Milotić\source\repos\Primjer upotrebe foreach petlje i objekta-EM\Primjer upotrebe foreach petlje i objekta-EM\obj\Debug\Primjer upotrebe foreach petlje i objekta-EM.pdb
